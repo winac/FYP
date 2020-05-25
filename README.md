@@ -1,5 +1,11 @@
 # FYP
 
+## GitHub Repository of Alexander Jarisch
+
+## Final Year Project - MEng Electrical and Electronic Engineering
+
+## Causality Analysis for Financial Networks
+
 Data used to the gold price graphs can be found in `gold.csv`
 
 Data for the real world application of ice cream sales causing drownings can be found in `real-case.csv`
