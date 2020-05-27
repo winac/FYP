@@ -10,6 +10,6 @@ Data used for the financial application (stock prices of Hyatt, American Airline
 
 Data used for the observation of bicausality in financial networks (financial stock prices of Boeing and Airbus) can be found in `financial-data-bicausal.csv`, the interpolated version of this data and which was used for the analysis can be found `financial-data-bicausal-interpolated.csv`
 
-All python code used can be found in the python notebook `fyp.ipynb`.
+All python code used can be found in the python notebook `FYP.ipynb`.
 
 ### GitHub Repository of Alexander Jarisch
