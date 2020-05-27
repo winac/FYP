@@ -1,10 +1,6 @@
 # FYP
 
-## GitHub Repository of Alexander Jarisch
-
-## Final Year Project - MEng Electrical and Electronic Engineering
-
-## Causality Analysis for Financial Networks
+## Final Year Project - MEng Electrical and Electronic Engineering <br/> Causality Analysis for Financial Networks
 
 Data used to the gold price graphs can be found in `gold.csv`
 
@@ -15,3 +11,5 @@ Data used for the financial application (stock prices of Hyatt, American Airline
 Data used for the observation of bicausality in financial networks (financial stock prices of Boeing and Airbus) can be found in `financial-data-bicausal.csv`, the interpolated version of this data and which was used for the analysis can be found `financial-data-bicausal-interpolated.csv`
 
 All python code used can be found in the python notebook `fyp.ipynb`.
+
+### GitHub Repository of Alexander Jarisch
