@@ -1,6 +1,6 @@
-# FYP
+# Causality Analysis for Financial Networks
 
-## Final Year Project - MEng Electrical and Electronic Engineering <br/> Causality Analysis for Financial Networks
+## Final Year Project - MEng Electrical and Electronic Engineering
 
 Data used to the gold price graphs can be found in `gold.csv`
 
